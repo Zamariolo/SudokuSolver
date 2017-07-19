@@ -3,7 +3,7 @@
 #include <ctype.h>
 
 #define N 9
-#define espacamento 1 //Espaçamento da matriz na hora de mostrar
+#define espacamento 2	 //Espaçamento da matriz na hora de mostrar
 
 //Estrutura
 
